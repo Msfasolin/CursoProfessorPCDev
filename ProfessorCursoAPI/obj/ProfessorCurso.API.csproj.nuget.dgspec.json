@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculoAPI\\ProfessorCurso.API.csproj": {}
+    "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCursoAPI\\ProfessorCurso.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculoAPI\\ProfessorCurso.API.csproj": {
+    "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCursoAPI\\ProfessorCurso.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculoAPI\\ProfessorCurso.API.csproj",
+        "projectUniqueName": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCursoAPI\\ProfessorCurso.API.csproj",
         "projectName": "ProfessorCurso.API",
-        "projectPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculoAPI\\ProfessorCurso.API.csproj",
+        "projectPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCursoAPI\\ProfessorCurso.API.csproj",
         "packagesPath": "C:\\Users\\Msfasolin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculoAPI\\obj\\",
+        "outputPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCursoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculo\\ProfessorCurso.csproj": {
-                "projectPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculo\\ProfessorCurso.csproj"
+              "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCurso\\ProfessorCurso.csproj": {
+                "projectPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCurso\\ProfessorCurso.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculo\\ProfessorCurso.csproj": {
+    "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCurso\\ProfessorCurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculo\\ProfessorCurso.csproj",
+        "projectUniqueName": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCurso\\ProfessorCurso.csproj",
         "projectName": "ProfessorCurso",
-        "projectPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculo\\ProfessorCurso.csproj",
+        "projectPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCurso\\ProfessorCurso.csproj",
         "packagesPath": "C:\\Users\\Msfasolin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculo\\obj\\",
+        "outputPath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCurso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

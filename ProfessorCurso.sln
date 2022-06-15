@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfessorCurso", "AluguelVeiculo\ProfessorCurso.csproj", "{F86E394B-63B6-4432-8151-91846D1D8012}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfessorCurso", "ProfessorCurso\ProfessorCurso.csproj", "{F86E394B-63B6-4432-8151-91846D1D8012}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfessorCurso.API", "AluguelVeiculoAPI\ProfessorCurso.API.csproj", "{E48546B6-956B-4E3C-ABB4-3D6ADA7D042E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfessorCurso.API", "ProfessorCursoAPI\ProfessorCurso.API.csproj", "{E48546B6-956B-4E3C-ABB4-3D6ADA7D042E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

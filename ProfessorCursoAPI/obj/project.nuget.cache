@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TAzj4N2NVnRXPeUiILUOVuSCHeYt+0Mi+Fqg5RzkqP08NI5ZHtrbjy24kw23GIuA4lAk8MxlCCu2iqY8FY5pGg==",
+  "dgSpecHash": "JizCaENqCJkAY5naHAfpPVx5wjGnawgSjPVPQImj5rKCk21oBXVp5kzglwGmyd25vCXS7N+shUrbmc69Zbe+hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorA\\AluguelVeiculoAPI\\ProfessorCurso.API.csproj",
+  "projectFilePath": "C:\\Users\\Msfasolin\\Desktop\\Avanade\\Exercicio3\\CursoProfessorC\\ProfessorCursoAPI\\ProfessorCurso.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Msfasolin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Msfasolin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
